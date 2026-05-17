@@ -13,6 +13,7 @@
 - دعم كامل للغة العربية
 - تصميم متجاوب يعمل على جميع الأجهزة
 - خط عربي جميل (Amiri)
+- صفحة مراجعة لعرض الأحاديث السابقة
 
 ## التقنيات المستخدمة
 
@@ -38,6 +39,7 @@ https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-bukhari.json
 ```
 ahadith/
 ├── index.html    # الصفحة الرئيسية
+├── review.html   # صفحة مراجعة الأحاديث
 ├── style.css     # ملف التنسيقات
 └── script.js     # ملف الجافاسكريبت
 ```
